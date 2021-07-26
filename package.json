@@ -1,0 +1,11 @@
+{
+  "name": "docs-generator",
+  "version": "1.0.0",
+  "description": "Generator from Google SpreadSheets to Google Docs",
+  "main": "code.js",
+  "scripts": {
+    "test": "npm run code.js"
+  },
+  "author": "Luighi Viton-Zorrilla",
+  "license": "ISC"
+}
