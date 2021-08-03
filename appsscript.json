@@ -10,8 +10,8 @@
   "runtimeVersion": "V8",
   "addOns": {
     "common": {
-      "name": "Generate",
-      "logoUrl": "https://www.gstatic.com/images/branding/product/1x/translate_24dp.png",
+      "name": "Generador",
+      "logoUrl": "https://generatordocs.projects.luighiviton.com/images/logo-generator.png",
       "layoutProperties": {
         "primaryColor": "#2772ed"
       },
