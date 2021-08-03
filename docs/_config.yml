@@ -1,0 +1,28 @@
+title: Generador de Google Docs desde SpreadSheets
+email: lv@luighiviton.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Esta página aloja la descripción del proyecto para la generación de Google Docs
+  a partir de Google SpreadSheets, tomando en cuenta una estructura para el documento
+  de Google SpreadSheets.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: LuighiVZ
+github_username:  LuighiV
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
