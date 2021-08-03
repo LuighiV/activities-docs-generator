@@ -3,8 +3,6 @@
 layout: home
 ---
 
-# Generador de Google Docs a partir de Google SpreadSheets
-
 Este proyecto surge de la necesidad de generar un resumen de actividades
 registradas en una hoja de cálculo de Google SpreadSheets, pero que a su vez
 pueda servir para generar una hoja de Google Docs con los ítems agrupados de
