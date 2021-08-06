@@ -74,6 +74,12 @@ En la siguiente figura se aprecia una muestra del documento generado:
 La extensión se encuentra en fase de pruebas y está diseñada para un caso
 específico de uso tal como se comenta en la [motivación](/#motivación).
 
+Los permisos requeridos para la aplicación son los estrictamente necesarios
+para su funcionamiento, y solamente afectan a los archivos en los cuales se
+está aplicando el complemento. Tampoco se recolecta, en ningún escenario, la
+información personal de los usuarios, tal como se indica en la página de
+[privacidad](/privacy).
+
 Siéntese libre de adaptarlo a su necesidad tomando como referencia el [Código
 fuente](/source-code) publicado en GitHub.
 
