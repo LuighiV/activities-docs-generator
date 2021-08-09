@@ -10,8 +10,8 @@
    inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
    sodipodi:docname="banner.svg"
    inkscape:export-filename="/home/luighi/activities-docs-generator/docs/images/banner.png"
-   inkscape:export-xdpi="300"
-   inkscape:export-ydpi="300"
+   inkscape:export-xdpi="300.21817"
+   inkscape:export-ydpi="300.21817"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -30,14 +30,15 @@
      units="px"
      width="220px"
      inkscape:zoom="2.0489618"
-     inkscape:cx="90.777681"
-     inkscape:cy="55.393907"
-     inkscape:window-width="1920"
-     inkscape:window-height="1050"
-     inkscape:window-x="1366"
-     inkscape:window-y="30"
+     inkscape:cx="85.409108"
+     inkscape:cy="47.585075"
+     inkscape:window-width="1352"
+     inkscape:window-height="724"
+     inkscape:window-x="5"
+     inkscape:window-y="35"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer1"
+     inkscape:snap-page="true" />
   <defs
      id="defs2">
     <radialGradient
@@ -391,12 +392,13 @@
      inkscape:groupmode="layer"
      id="layer1">
     <rect
-       style="fill:url(#linearGradient20480);stroke:none;stroke-width:0.348096;stop-color:#000000;fill-opacity:1"
+       style="fill:url(#linearGradient20480);fill-opacity:1;stroke:none;stroke-width:0.348096;stop-color:#000000"
        id="rect20442"
-       width="58.055534"
-       height="37.356319"
-       x="0.1384306"
-       y="-0.17029943" />
+       width="58.208332"
+       height="37.041668"
+       x="0"
+       y="0"
+       ry="0" />
     <text
        xml:space="preserve"
        style="font-weight:500;font-size:4.23333px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Medium';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;stroke-width:0.264583"
@@ -404,20 +406,25 @@
        y="22.534248"
        id="text1890"><tspan
          sodipodi:role="line"
-         id="tspan1888"
          style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:condensed;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Semi-Bold Condensed';text-align:start;text-anchor:start;stroke-width:0.264583"
          x="3.2820184"
-         y="22.534248">Generador</tspan><tspan
+         y="22.534248"
+         id="tspan1894">Generador </tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:condensed;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Semi-Bold Condensed';text-align:start;text-anchor:start;stroke-width:0.264583"
          x="3.2820184"
          y="27.825911"
-         id="tspan1892">de resumen y</tspan><tspan
+         id="tspan7294">de Google Docs </tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:condensed;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Semi-Bold Condensed';text-align:start;text-anchor:start;stroke-width:0.264583"
          x="3.2820184"
          y="33.117573"
-         id="tspan1894">lista de actividades</tspan></text>
+         id="tspan7296">desde SpreadSheets</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:condensed;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Semi-Bold Condensed';text-align:start;text-anchor:start;stroke-width:0.264583"
+         x="3.2820184"
+         y="38.409233"
+         id="tspan4987" /></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:29.5822px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#5290f5;fill-opacity:1;stroke-width:1.28706"
@@ -447,5 +454,26 @@
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:29.2893px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Bold Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#24a566;fill-opacity:1;stroke-width:0.93169"
          x="32.305401"
          y="23.19323">S</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:300;font-stretch:normal;font-size:2.46944px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Light Italic';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;stroke-width:0.264583"
+       x="24.351084"
+       y="5.9647279"
+       id="text22026"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:300;font-stretch:normal;font-size:2.46944px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Light Italic';text-align:end;text-anchor:end;stroke-width:0.264583"
+         x="24.351084"
+         y="5.9647279"
+         sodipodi:role="line"
+         id="tspan49656">Genera tabla</tspan><tspan
+         style="font-style:italic;font-variant:normal;font-weight:300;font-stretch:normal;font-size:2.46944px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Light Italic';text-align:end;text-anchor:end;stroke-width:0.264583"
+         x="24.351084"
+         y="9.051528"
+         sodipodi:role="line"
+         id="tspan60540">resumen y</tspan><tspan
+         style="font-style:italic;font-variant:normal;font-weight:300;font-stretch:normal;font-size:2.46944px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Light Italic';text-align:end;text-anchor:end;stroke-width:0.264583"
+         x="24.351084"
+         y="12.138329"
+         sodipodi:role="line"
+         id="tspan46193">lista de actividades</tspan></text>
   </g>
 </svg>
