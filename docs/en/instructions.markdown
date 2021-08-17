@@ -76,15 +76,15 @@ The following figure shows a sample of the generated document:
 ## Important considerations
 
 The extension is in the testing phase and is designed for a case
-specific to use as discussed in [motivation](/#motivation).
+specific to use as discussed in [motivation](/en/#motivation).
 
 The permissions required for the application are strictly necessary for their
 operation, and only affect the files in which they are you are applying the
 plugin.  The personal information of users is not collected, in any setting, as
-indicated on the page of [privacy](/privacy).
+indicated on the page of [privacy](/en/privacy).
 
 Feel free to adapt it to your needs by referring to the [Source
-code](/source-code) published on GitHub.
+code](/en/source-code) published on GitHub.
 
 If you have any recommendations, suggestions or any query about the use of this
 extension, as well as if you get an error when using it, do not hesitate

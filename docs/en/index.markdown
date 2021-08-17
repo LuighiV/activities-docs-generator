@@ -34,4 +34,4 @@ The extension performs two main tasks:
 	 list of activities grouped according to age criteria and date.
 
 For instructions on how to use it, you can visit the page 
-[Instructions](/instructions).
+[Instructions](/en/instructions).
