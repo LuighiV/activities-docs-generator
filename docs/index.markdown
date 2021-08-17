@@ -1,6 +1,8 @@
 ---
 
 layout: home
+lang: es
+lang-ref: home
 ---
 
 Este proyecto surge de la necesidad de generar un resumen de actividades

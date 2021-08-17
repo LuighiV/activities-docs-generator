@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Instrucciones de uso
-permalink: /instructions/
+lang: es
+lang-ref: instructions
 ---
 
 Para poder utilizar la presente extensión primero es necesario instalarla desde

@@ -1,9 +1,9 @@
 title: Generador de Google Docs desde SpreadSheets
+author: Luighi Viton-Zorrilla
 email: lv@luighiviton.com
 description: >- # this means to ignore newlines until "baseurl:"
   Esta página aloja la descripción del proyecto para la generación de Google Docs
-  a partir de Google SpreadSheets, tomando en cuenta una estructura para el documento
-  de Google SpreadSheets.
+  a partir de Google SpreadSheets, tomando en cuenta la estructura del documento.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: LuighiVZ
@@ -26,3 +26,18 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
+
+defaults:
+    -
+     scope:
+         path: ""
+     values:
+         lang: es
+         base-url: "/"
+    -
+     scope:
+         path: en
+     values:
+         header_title: Google Docs generator from SpreadSheets
+         lang: en
+         base-url: "/en/"

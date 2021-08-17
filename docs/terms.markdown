@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Términos y condiciones de uso
-permalink: /terms/
+lang: es
+lang-ref: terms
 ---
 
 

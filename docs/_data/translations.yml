@@ -1,0 +1,13 @@
+differentLanguage:
+  en: "Read this page in a different language"
+  es: "Lea esta página en un idioma diferente"
+title:
+  en: "Google Docs generator from SpreadSheets"
+  es: "Generador de Google Docs desde SpreadSheets" 
+description:
+  en: >-
+    This page hosts the the project for the generation of Google Docs
+    from Google SpreadSheets, based on the spreadsheet structure.
+  es: >-
+    Esta página aloja la descripción del proyecto para la generación de Google Docs
+    a partir de Google SpreadSheets, tomando en cuenta la estructura del documento.

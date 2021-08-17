@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Acerca del autor
-permalink: /about/
+lang: es
+lang-ref: about
 ---
 
 ### Luighi Viton-Zorrilla

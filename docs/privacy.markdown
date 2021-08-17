@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Privacidad
-permalink: /privacy/
+lang: es
+lang-ref: privacy
 ---
 
 Esta extensión para Google WorkSpace no almacena ningún dato del usuario. Todos

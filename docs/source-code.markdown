@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Código fuente
-permalink: /source-code/
+lang: es
+lang-ref: source-code
 ---
 
 El software proporcionado a través de la extensión de Google WorkSpace es 
