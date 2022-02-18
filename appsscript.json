@@ -10,7 +10,7 @@
   "runtimeVersion": "V8",
   "addOns": {
     "common": {
-      "name": "Generador",
+      "name": "Generador Documento",
       "logoUrl": "https://generatordocs.projects.luighiviton.com/images/logo-generator.png",
       "layoutProperties": {
         "primaryColor": "#2772ed"
